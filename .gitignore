@@ -1,7 +1,13 @@
 # compiled output
 /dist
-/node_modules
+node_modules/
 /build
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
 
 # Logs
 logs
